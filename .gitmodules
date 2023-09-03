@@ -1,0 +1,3 @@
+[submodule "FastApi"]
+	path = FastApi
+	url = https://github.com/mihirk517/FastApi.git
