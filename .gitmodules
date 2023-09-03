@@ -1,3 +1,6 @@
 [submodule "FastApi"]
 	path = FastApi
 	url = https://github.com/mihirk517/FastApi.git
+[submodule "front-end"]
+	path = front-end
+	url = https://github.com/mihirk517/front-end.git
